@@ -4,14 +4,17 @@ Nathan{
   vou deixar um pequeno dicionário das minhas abreviações das matérias aqui:
   
   -biol= biologia
+  -espa= espanhol
   -filo= filosofia
   -fisic= física
   -geo= geografia
   -hist= história
+  -ing= inglês
   -mat= matemática
   -port= portugues
   -quimi= quimica
   -red= redação 
+  -socio= sociologia
   
   (acredito que vocÊs tenham entendido mas é bom deixar claro, sou péssimo para dar nome as coisas, da para perceber pelo nome das minhs branchs)
 
