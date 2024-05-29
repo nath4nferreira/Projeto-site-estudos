@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Química Orgânica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #0d0e0f; /* Nova cor */
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        nav {
+            background-color: #333;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+        }
+        nav ul li {
+            margin: 0;
+        }
+        nav ul li a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            display: block;
+        }
+        nav ul li a:hover {
+            background-color: #575757;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #007BFF; /* Nova cor */
+        }
+        p {
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        ul li::before {
+            content: "•";
+            color: #276db8; /* Nova cor */
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+        }
+        a {
+            color: #007BFF; /* Nova cor */
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Química Orgânica</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Início</a></li>
+            <li><a href="matematica.html">Matemática</a></li>
+            <li><a href="fisica.html">Física</a></li>
+            <li><a href="biologia.html">Biologia</a></li>
+            <li><a href="historia.html">História</a></li>
+            <li><a href="geografia.html">Geografia</a></li>
+            <li><a href="portugues.html">Português</a></li>
+            <li><a href="redacao.html">Redação</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <p>A química orgânica é o ramo da química que estuda os compostos que contêm carbono, formando moléculas complexas presentes em organismos vivos e em diversos materiais do nosso cotidiano, como plásticos, medicamentos, combustíveis, entre outros.</p>
+        <p>Para se preparar para a prova do ENEM (Exame Nacional do Ensino Médio) em química orgânica, é importante focar em alguns tópicos principais:</p>
+        <h2>Tópicos de Estudo</h2>
+        <ul>
+            <li><strong>Estrutura e propriedades dos compostos orgânicos:</strong> Compreender a estrutura dos compostos orgânicos, incluindo a identificação de grupos funcionais como hidroxilas, carbonilas, aminas, entre outros, e como esses grupos influenciam as propriedades dos compostos.</li>
+            <li><strong>Isomeria:</strong> Entender os diferentes tipos de isomeria, como isomeria plana e espacial, e ser capaz de identificar e diferenciar isômeros em uma molécula.</li>
+            <li><strong>Nomenclatura:</strong> Dominar a nomenclatura dos compostos orgânicos, incluindo alcanos, alcenos, alcinos, álcoois, éteres, aldeídos, cetonas, ácidos carboxílicos, entre outros.</li>
+        </ul>
+        <h2>Estrutura e Propriedades dos Compostos Orgânicos</h2>
+        <p>Os compostos orgânicos são caracterizados pela presença de carbono em sua estrutura molecular, formando cadeias ou anéis que podem ser simples ou complexos. A estrutura dos compostos orgânicos é essencialmente determinada pela ligação covalente do carbono com outros átomos, como hidrogênio, oxigênio, nitrogênio, entre outros.</p>
+        <p>A estrutura dos compostos orgânicos pode ser representada de várias maneiras, incluindo:</p>
+        <ul>
+            <li><strong>Fórmula molecular:</strong> Indica a quantidade e os tipos de átomos presentes em uma molécula.</li>
+            <li><strong>Fórmula estrutural:</strong> Mostra a disposição espacial dos átomos e as ligações entre eles.</li>
+            <li><strong>Fórmula de Lewis:</strong> Representa os átomos como símbolos e mostra as ligações entre eles por meio de pares de elétrons compartilhados.</li>
+        </ul>
+        <p>Os grupos funcionais são partes da molécula que conferem propriedades específicas aos compostos orgânicos. Alguns exemplos de grupos funcionais incluem hidroxilas (-OH), carbonilas (C=O), aminas (-NH2), entre outros. Esses grupos influenciam as propriedades físicas e químicas dos compostos orgânicos, como ponto de fusão, ponto de ebulição, solubilidade, acidez e reatividade.</p>
+        <p>Além disso, a hibridização dos átomos de carbono na molécula determina sua geometria molecular, o que por sua vez influencia suas propriedades. Por exemplo, a hibridização sp3 resulta em uma geometria tetraédrica, enquanto a hibridização sp2 resulta em uma geometria trigonal plana.</p>
+        <h2>Isomeria em Química</h2>
+        <p>A isomeria é um fenômeno em química onde duas ou mais substâncias possuem a mesma fórmula molecular, mas diferentes estruturas ou arranjos de átomos, resultando em diferentes propriedades físicas e químicas. A isomeria é um conceito central na química orgânica e inorgânica e pode ser dividida em duas categorias principais: isomeria estrutural e isomeria espacial (estereoisomeria).</p>
+        <h3>Isomeria Estrutural</h3>
+        <ul>
+            <li><strong>Isomeria de Cadeia:</strong> Os isômeros diferem na estrutura da cadeia de átomos de carbono. Exemplo: n-butano e isobutano.</li>
+            <li><strong>Isomeria de Posição:</strong> Os isômeros diferem na posição de um grupo funcional ou de uma insaturação na cadeia de carbono. Exemplo: 1-butanol e 2-butanol.</li>
+            <li><strong>Isomeria de Função:</strong> Os isômeros possuem diferentes grupos funcionais. Exemplo: etanol e dimetil éter.</li>
+            <li><strong>Isomeria de Tautomeria:</strong> Tautômeros estão em equilíbrio dinâmico e podem se interconverter. Exemplo: equilíbrio ceto-enol.</li>
+            <li><strong>Isomeria de Metameria:</strong> Os isômeros têm a mesma fórmula molecular e grupos funcionais idênticos, mas diferem na posição dos grupos laterais. Exemplo: éteres como etoxietano e metoxietano.</li>
+        </ul>
+        <h3>Isomeria Espacial (Estereoisomeria)</h3>
+        <ul>
+            <li><strong>Isomeria Geométrica (Cis-Trans):</strong> Ocorre em compostos com ligações duplas ou cíclicos. Exemplo: cis-2-buteno e trans-2-buteno.</li>
+            <li><strong>Isomeria Óptica:</strong> Ocorre em moléculas com centros quirais. Exemplo: enantiômeros de ácido lático.</li>
+        </ul>
+        <p>Compreender a isomeria é essencial na química, pois isômeros podem ter propriedades físicas, químicas e biológicas completamente diferentes, mesmo tendo a mesma fórmula molecular.</p>
+        <h2>Nomenclatura dos Compostos Orgânicos</h2>
+        <p>A nomenclatura química orgânica é o sistema utilizado para nomear compostos orgânicos. Este sistema é essencial para a comunicação clara e precisa entre cientistas. A nomenclatura segue regras estabelecidas pela IUPAC (União Internacional de Química Pura e Aplicada) e inclui:</p>
+       
+        <ul>
+            <li><strong>Cadeia Principal (Estrutura Carbonada):</strong> A cadeia principal em um composto orgânico é composta por átomos de carbono, que podem se ligar uns aos outros para formar cadeias lineares, ramificadas ou cíclicas.</li>
+            <li><strong>Grupos Funcionais:</strong> Os grupos funcionais são átomos ou conjuntos de átomos que conferem propriedades específicas aos compostos orgânicos. Exemplos incluem hidroxila (-OH) em álcoois, carboxila (-COOH) em ácidos carboxílicos, carbonila (C=O) em cetonas e aldeídos, e amina (-NH2) em aminas.</li>
+            <li><strong>Prefixos, Infixos e Sufixos:</strong> A nomenclatura dos compostos orgânicos segue uma série de regras para nomear e identificar os diferentes elementos presentes nas moléculas. Por exemplo, o prefixo "met-" indica um único átomo de carbono, "et-" indica dois, "prop-" indica três, e assim por diante.</li>
+            <li><strong>Locantes:</strong> Os locantes são números usados para indicar a posição dos átomos de carbono ou grupos funcionais na cadeia principal do composto. Eles ajudam a especificar exatamente onde ocorrem substituições ou insaturações na molécula.</li>
+            <li><strong>Ramificações:</strong> Quando há ramificações na cadeia principal, elas são indicadas por prefixos que mostram o número de carbonos na ramificação e sua posição na cadeia principal. Por exemplo, o prefixo "metil-" indica uma ramificação com um átomo de carbono.</li>
+            <li><strong>Hidrocarbonetos:</strong> Os hidrocarbonetos são compostos orgânicos formados apenas por átomos de carbono e hidrogênio. Eles são classificados em alcanos (ligações simples), alcenos (ligações duplas), alcinos (ligações triplas) e aromáticos (anéis de benzeno).</li>
+            <li><strong>Cicloalcanos:</strong> São hidrocarbonetos cíclicos, compostos por anéis de átomos de carbono unidos por ligações simples.</li>
+            <li><strong>Substituição:</strong> Quando átomos ou grupos de átomos são substituídos na estrutura da molécula, isso é indicado no nome do composto, por exemplo, clorometano, onde um átomo de hidrogênio em metano é substituído por um átomo de cloro.</li>
+            <li><strong>Isomeria:</strong> Os compostos orgânicos podem exibir diferentes tipos de isomeria, como discutido anteriormente. A nomenclatura leva isso em consideração para distinguir entre isômeros.</li>
+            <li><strong>Heteroátomos:</strong> Além de carbono e hidrogênio, os compostos orgânicos também podem conter outros átomos, como oxigênio, nitrogênio, enxofre, entre outros. A presença desses átomos é indicada na nomenclatura do composto.</li>
+            <li><strong>Nomenclatura de compostos especiais:</strong> Alguns compostos orgânicos possuem nomenclatura específica devido à sua importância ou complexidade, como os carboidratos, aminoácidos e nucleotídeos.</li>
+        </ul>
+        <p>Dominar a nomenclatura química orgânica é fundamental para a compreensão e comunicação eficaz sobre os compostos orgânicos, permitindo a descrição precisa de suas estruturas e propriedades.</p>
+        <p>Em mais detalhes do estudo e maior compreensão, segue a video aula abaixo</p>
+        <a href="https://www.youtube.com/watch?v=OcMxZl_HaH8&list=PLrsojwmNR8-E1VS-YMig8_diHIjpHHw5u" target="_blank">Assistir à vídeo aula</a>
+    </div>
+</body>
+</html>
