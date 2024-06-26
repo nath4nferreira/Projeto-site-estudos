@@ -137,3 +137,9 @@ img {
     transition: all 0.4s;
     
 }
+
+@media(max-width: 768px) {
+    .wrapper{
+        max-width: 355px;
+    }
+}
